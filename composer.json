@@ -1,5 +1,6 @@
 {
   "name": "crayonestudiocreativo/smtp-ejemplo",
+  "description": "Ejemplo de mailer de STMP implementado en PHP.",
   "license": "MIT",
   "authors": [
     {
