@@ -1,0 +1,20 @@
+{
+  "name": "isaactorresmichel/ejemplosmtpmailer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Isaac Torres",
+      "homepage": "https://github.com/isaactorresmichel/"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "swiftmailer/swiftmailer": "^5.4",
+    "symfony/yaml": "^3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "CrayonEstudioCreativo\\Tutorial\\": "src/"
+    }
+  }
+}

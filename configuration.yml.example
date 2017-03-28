@@ -1,0 +1,7 @@
+smtp: 'smptserver.correo.com'
+port: 465
+security: 'ssl'
+username: 'username@correo.com'
+password: 'contraseña'
+from: 'Contacto <contacto@correo.com>'
+to: 'Destino <destino@correo.com'
